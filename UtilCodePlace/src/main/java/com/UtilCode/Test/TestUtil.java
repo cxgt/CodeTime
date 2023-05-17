@@ -7,5 +7,7 @@ package com.UtilCode.Test;
  * @date 2023/05/17 14:26
  */
 public class TestUtil {
+    public static void main(String[] args) {
 
+    }
 }
