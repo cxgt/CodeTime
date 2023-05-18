@@ -1,9 +1,9 @@
 package com.service.impl;
 
 
-import com.example.demo.bean.ModelDes;
-import com.example.demo.mapper.ModelDesMapper;
-import com.example.demo.service.TestService;
+import com.bean.ModelDes;
+import com.mapper.ModelDesMapper;
+import com.service.TestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

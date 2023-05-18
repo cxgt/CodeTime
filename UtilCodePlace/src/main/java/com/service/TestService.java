@@ -1,6 +1,6 @@
 package com.service;
 
-import com.example.demo.bean.ModelDes;
+import com.bean.ModelDes;
 
 public interface TestService {
     ModelDes queryById(Long id);

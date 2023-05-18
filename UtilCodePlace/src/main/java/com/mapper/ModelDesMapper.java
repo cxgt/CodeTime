@@ -1,7 +1,7 @@
 package com.mapper;
 
 
-import com.example.demo.bean.ModelDes;
+import com.bean.ModelDes;
 
 public interface ModelDesMapper {
     int deleteByPrimaryKey(Long id);
